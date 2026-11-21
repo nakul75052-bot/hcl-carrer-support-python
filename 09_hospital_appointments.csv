@@ -1,0 +1,504 @@
+Appointment_ID,Appointment_Date,Department,Visit_Type,SMS_Reminder,Attendance_Status,Waiting_Time,Consultation_Fee
+APT00001,2026-09-16,General Medicine,Follow-up,Yes,Attended,21.7,407.86
+APT00002,2026-08-25,Dermatology,Follow-up,Yes,Cancelled,35.8,449.88
+APT00003,2026-08-22,General Medicine,Follow-up,Yes,Attended,19.4,384.24
+APT00004,2026-09-24,ENT,New,Yes,Attended,35.3,457.89
+APT00005,2026-10-13,Cardiology,New,No,No-Show,42.4,764.34
+APT00006,2026-09-10,General Medicine,Follow-up,Yes,Attended,37.1,318.0
+APT00007,2026-08-13,General Medicine,New,No,No-Show,34.7,395.81
+APT00008,2026-08-23,General Medicine,Follow-up,Yes,Attended,31.5,442.85
+APT00009,2026-08-16,Cardiology,New,No,Attended,46.9,689.74
+APT00010,2026-10-21,Dermatology,New,Yes,Attended,22.5,331.6
+APT00011,2026-08-30,Dermatology,New,No,Attended,,420.4
+APT00012,2026-09-04,General Medicine,Follow-up,Yes,Attended,38.1,401.74
+APT00013,2026-08-07,ENT,New,Yes,Attended,37.8,533.18
+APT00014,2026-09-11,General Medicine,New,No,No-Show,37.4,360.45
+APT00015,2026-10-24,Dermatology,New,Yes,No-Show,42.4,504.47
+APT00016,2026-09-07,Orthopedics,New,Yes,Attended,42.9,634.88
+APT00017,2026-09-29,Pediatrics,New,No,Attended,32.0,458.45
+APT00018,2026-08-17,Cardiology,Follow-up,No,Cancelled,43.4,777.23
+APT00019,2026-08-14,General Medicine,New,Yes,Attended,65.1,413.91
+APT00020,2026-10-07,ENT,Follow-up,Yes,Attended,13.6,521.53
+APT00021,2026-08-07,General Medicine,Follow-up,No,Attended,45.0,388.02
+APT00022,2026-09-11,Dermatology,New,No,Attended,7.4,433.42
+APT00023,2026-08-30,General Medicine,New,No,No-Show,45.8,324.74
+APT00024,2026-08-02,General Medicine,Follow-up,Yes,Attended,55.5,421.68
+APT00025,2026-09-18,General Medicine,New,No,No-Show,158.5,359.08
+APT00026,2026-10-28,Orthopedics,New,Yes,Attended,48.2,657.95
+APT00027,2026-08-07,Dermatology,Follow-up,No,Attended,16.7,456.68
+APT00028,2026-10-15,Cardiology,Follow-up,Yes,Attended,42.4,650.73
+APT00029,2026-09-19,Cardiology,Follow-up,No,Attended,38.7,700.92
+APT00030,2026-10-06,ENT,New,Yes,Attended,28.8,586.16
+APT00031,2026-08-09,General Medicine,Follow-up,Yes,Attended,31.2,373.32
+APT00032,2026-10-19,General Medicine,Follow-up,No,Attended,37.6,278.12
+APT00033,2026-08-02,Orthopedics,New,Yes,Attended,36.0,584.5
+APT00034,2026-10-23,Dermatology,Follow-up,No,No-Show,13.5,546.24
+APT00035,2026-09-30,Dermatology,New,Yes,Attended,14.3,438.45
+APT00036,2026-09-01,Orthopedics,New,No,Attended,51.1,470.37
+APT00037,2026-08-01,Cardiology,New,Yes,Attended,57.1,859.02
+APT00038,2026-09-26,Pediatrics,New,Yes,Attended,39.0,432.75
+APT00039,2026-08-09,Orthopedics,New,Yes,No-Show,58.5,594.96
+APT00040,2026-09-26,ENT,Follow-up,Yes,Attended,32.1,477.71
+APT00041,2026-10-11,Dermatology,Follow-up,Yes,No-Show,29.1,508.45
+APT00042,2026-08-25,General Medicine,New,No,Attended,46.9,327.24
+APT00043,2026-08-22,ENT,Follow-up,No,Attended,29.8,568.9
+APT00044,2026-08-21,Orthopedics,Follow-up,No,Attended,31.1,639.04
+APT00045,2026-08-21,General Medicine,New,Yes,Attended,71.8,360.28
+APT00046,2026-08-11,General Medicine,New,Yes,Attended,37.1,356.11
+APT00047,2026-08-23,Dermatology,New,Yes,Attended,23.3,440.55
+APT00048,2026-09-30,Orthopedics,New,No,No-Show,,675.29
+APT00049,2026-08-28,ENT,Follow-up,No,Attended,34.3,448.08
+APT00050,2026-10-11,Cardiology,New,Yes,Attended,31.7,563.76
+APT00051,2026-10-15,Orthopedics,New,No,Attended,60.6,644.24
+APT00052,2026-10-10,Cardiology,New,Yes,Attended,48.8,753.02
+APT00053,2026-09-19,General Medicine,New,Yes,Attended,28.6,370.17
+APT00054,2026-08-30,ENT,Follow-up,Yes,Attended,46.5,524.46
+APT00055,2026-10-25,ENT,New,Yes,Attended,47.1,480.77
+APT00056,2026-08-19,General Medicine,New,No,No-Show,26.6,383.07
+APT00057,2026-09-12,Dermatology,New,No,Cancelled,55.1,447.54
+APT00058,2026-09-11,Pediatrics,New,Yes,Attended,44.6,376.62
+APT00059,2026-10-08,Cardiology,Follow-up,Yes,Attended,,673.8
+APT00060,2026-09-20,Cardiology,New,No,No-Show,70.7,869.73
+APT00061,2026-10-13,ENT,New,No,Cancelled,41.1,395.9
+APT00062,2026-10-24,Pediatrics,New,Yes,Attended,35.6,423.99
+APT00063,2026-09-05,Pediatrics,Follow-up,Yes,No-Show,19.4,319.4
+APT00064,2026-10-20,General Medicine,Follow-up,No,Cancelled,42.6,345.45
+APT00065,2026-08-16,ENT,Follow-up,Yes,No-Show,37.2,473.98
+APT00066,2026-10-24,Pediatrics,Follow-up,No,Attended,28.2,299.92
+APT00067,2026-08-17,Pediatrics,Follow-up,Yes,Attended,17.7,418.67
+APT00068,2026-10-18,Orthopedics,New,No,Attended,47.7,572.64
+APT00069,2026-09-05,Cardiology,New,Yes,Attended,49.1,523.67
+APT00070,2026-10-28,Dermatology,New,Yes,Attended,14.7,495.34
+APT00071,2026-08-12,Orthopedics,New,No,Attended,26.9,703.32
+APT00072,2026-09-12,Dermatology,Follow-up,Yes,Attended,31.3,530.47
+APT00073,2026-10-22,General Medicine,New,Yes,Attended,,365.08
+APT00074,2026-08-05,Orthopedics,Follow-up,No,No-Show,40.7,603.32
+APT00075,2026-08-25,Cardiology,Follow-up,No,Attended,35.8,811.57
+APT00076,2026-08-08,Orthopedics,New,Yes,Attended,63.0,721.13
+APT00077,2026-08-30,Orthopedics,Follow-up,Yes,No-Show,31.6,681.62
+APT00078,2026-09-05,ENT,Follow-up,Yes,No-Show,39.6,443.51
+APT00079,2026-09-26,Pediatrics,Follow-up,No,Cancelled,22.8,409.66
+APT00080,2026-08-24,General Medicine,New,Yes,No-Show,44.5,368.46
+APT00081,2026-08-15,ENT,New,Yes,No-Show,48.6,391.42
+APT00082,2026-08-16,Dermatology,New,No,Attended,26.0,475.35
+APT00083,2026-10-26,General Medicine,New,No,Attended,56.0,445.47
+APT00084,2026-10-27,Orthopedics,New,No,Attended,33.1,646.08
+APT00085,2026-08-21,Cardiology,Follow-up,No,Attended,45.8,823.77
+APT00086,2026-08-18,Cardiology,Follow-up,No,Cancelled,54.0,715.36
+APT00087,2026-08-05,ENT,New,No,Attended,47.6,495.61
+APT00088,2026-10-28,Dermatology,New,No,Attended,56.9,470.59
+APT00089,2026-10-04,Orthopedics,New,Yes,Attended,36.1,541.26
+APT00090,2026-10-09,Pediatrics,New,Yes,Attended,18.1,353.74
+APT00091,2026-08-27,Cardiology,Follow-up,Yes,Attended,29.1,806.37
+APT00092,2026-09-28,ENT,New,No,Attended,47.6,582.34
+APT00093,2026-08-06,Dermatology,New,Yes,Cancelled,38.5,396.48
+APT00094,2026-10-02,Dermatology,Follow-up,Yes,Attended,25.3,502.27
+APT00095,2026-09-23,Orthopedics,New,Yes,No-Show,31.4,593.74
+APT00096,2026-08-31,ENT,New,Yes,Attended,49.0,520.39
+APT00097,2026-10-05,Dermatology,Follow-up,Yes,Attended,8.1,474.85
+APT00098,2026-09-29,Cardiology,Follow-up,No,Attended,57.1,783.53
+APT00099,2026-09-10,Cardiology,Follow-up,No,No-Show,79.1,706.95
+APT00100,2026-08-18,General Medicine,Follow-up,Yes,Attended,39.8,409.23
+APT00101,2026-08-03,General Medicine,New,Yes,No-Show,50.6,363.0
+APT00102,2026-10-26,ENT,Follow-up,Yes,Attended,24.6,537.45
+APT00103,2026-08-26,Orthopedics,Follow-up,No,No-Show,14.5,540.01
+APT00104,2026-08-28,General Medicine,Follow-up,No,No-Show,27.2,440.66
+APT00105,2026-10-02,General Medicine,Follow-up,Yes,Attended,20.8,369.73
+APT00106,2026-08-24,ENT,Follow-up,No,Attended,12.2,542.78
+APT00107,2026-09-04,Dermatology,Follow-up,Yes,Cancelled,46.4,363.16
+APT00108,2026-10-05,Orthopedics,New,Yes,Attended,49.5,540.77
+APT00109,2026-09-24,Cardiology,Follow-up,No,Attended,46.9,803.98
+APT00110,2026-09-30,General Medicine,New,Yes,Attended,39.0,362.05
+APT00111,2026-08-01,Dermatology,New,Yes,Attended,29.8,346.66
+APT00112,2026-09-11,Orthopedics,Follow-up,Yes,Attended,50.5,674.76
+APT00113,2026-09-13,Orthopedics,Follow-up,Yes,Attended,37.6,560.85
+APT00114,2026-09-28,Pediatrics,Follow-up,No,Attended,,467.74
+APT00115,2026-08-14,Orthopedics,New,No,No-Show,,593.68
+APT00116,2026-08-15,General Medicine,Follow-up,Yes,Attended,30.6,358.6
+APT00117,2026-10-10,General Medicine,Follow-up,Yes,Attended,16.7,399.52
+APT00118,2026-10-01,ENT,New,No,Attended,13.3,446.15
+APT00119,2026-10-14,Dermatology,New,Yes,Cancelled,28.6,396.39
+APT00120,2026-08-25,ENT,New,No,Attended,39.7,488.21
+APT00121,2026-10-31,Pediatrics,Follow-up,No,Attended,11.3,439.7
+APT00122,2026-08-26,ENT,New,Yes,Attended,38.6,420.15
+APT00123,2026-09-29,Cardiology,Follow-up,No,No-Show,42.7,559.89
+APT00124,2026-08-15,Dermatology,New,Yes,Attended,4.0,494.48
+APT00125,2026-10-24,Cardiology,Follow-up,Yes,Attended,,649.35
+APT00126,2026-08-31,Pediatrics,New,Yes,Attended,41.3,381.17
+APT00127,2026-10-13,Orthopedics,Follow-up,Yes,Attended,43.0,466.31
+APT00128,2026-08-31,Cardiology,New,No,Attended,35.0,642.97
+APT00129,2026-10-12,Cardiology,New,No,Attended,52.1,699.36
+APT00130,2026-09-11,Pediatrics,Follow-up,No,Attended,159.2,444.66
+APT00131,2026-08-06,Orthopedics,Follow-up,No,Attended,48.1,544.47
+APT00132,2026-08-18,General Medicine,Follow-up,Yes,No-Show,33.8,419.61
+APT00133,2026-10-02,Pediatrics,New,Yes,Attended,29.9,367.14
+APT00134,2026-08-18,Dermatology,New,No,No-Show,23.8,413.11
+APT00135,2026-08-26,Pediatrics,New,No,Cancelled,42.1,473.79
+APT00136,2026-09-19,Cardiology,New,Yes,Attended,52.5,717.76
+APT00137,2026-08-24,General Medicine,Follow-up,Yes,Attended,43.2,326.81
+APT00138,2026-08-12,Pediatrics,Follow-up,Yes,Cancelled,29.7,392.55
+APT00139,2026-09-27,General Medicine,Follow-up,Yes,Attended,45.6,406.83
+APT00140,2026-10-03,Cardiology,Follow-up,No,No-Show,43.2,823.16
+APT00141,2026-10-07,Pediatrics,Follow-up,Yes,Attended,38.2,360.79
+APT00142,2026-10-26,Pediatrics,Follow-up,No,Attended,39.3,397.96
+APT00143,2026-08-12,General Medicine,New,No,Attended,32.5,353.79
+APT00144,2026-09-09,Pediatrics,New,No,Attended,12.5,352.66
+APT00145,2026-08-22,Pediatrics,Follow-up,Yes,Attended,48.1,397.33
+APT00146,2026-10-22,Orthopedics,Follow-up,Yes,Attended,41.3,600.38
+APT00147,2026-09-19,Dermatology,New,No,Attended,9.7,511.57
+APT00148,2026-08-10,Pediatrics,New,No,No-Show,26.7,457.96
+APT00149,2026-10-03,Dermatology,Follow-up,Yes,No-Show,34.0,432.22
+APT00150,2026-08-04,Cardiology,New,No,No-Show,46.4,682.03
+APT00151,2026-08-26,General Medicine,New,Yes,Attended,36.3,377.9
+APT00152,2026-10-06,General Medicine,Follow-up,No,Attended,53.2,325.42
+APT00153,2026-09-16,Cardiology,Follow-up,Yes,Attended,28.4,749.45
+APT00154,2026-10-10,Pediatrics,New,Yes,Attended,25.6,395.78
+APT00155,2026-09-22,Cardiology,Follow-up,Yes,Cancelled,44.7,618.57
+APT00156,2026-10-17,ENT,New,Yes,Attended,44.1,442.59
+APT00157,2026-09-21,Orthopedics,Follow-up,Yes,Attended,,704.19
+APT00158,2026-08-06,ENT,New,Yes,No-Show,50.8,490.61
+APT00159,2026-08-07,ENT,Follow-up,Yes,Attended,33.6,598.42
+APT00160,2026-10-11,General Medicine,New,No,Attended,49.4,328.43
+APT00161,2026-08-04,Cardiology,New,Yes,Attended,46.6,724.46
+APT00162,2026-09-04,General Medicine,Follow-up,No,Attended,35.8,450.49
+APT00163,2026-08-02,Orthopedics,New,No,No-Show,47.4,523.87
+APT00164,2026-08-28,Cardiology,New,Yes,Attended,52.8,540.58
+APT00165,2026-09-24,Pediatrics,New,Yes,No-Show,46.0,461.76
+APT00166,2026-08-16,Dermatology,Follow-up,No,No-Show,31.2,405.35
+APT00167,2026-09-12,General Medicine,Follow-up,No,No-Show,35.6,349.13
+APT00168,2026-10-31,General Medicine,Follow-up,Yes,Attended,24.5,325.39
+APT00169,2026-08-07,Orthopedics,New,No,Attended,46.9,619.31
+APT00170,2026-08-06,General Medicine,New,Yes,No-Show,42.6,310.08
+APT00171,2026-08-25,Orthopedics,New,Yes,Attended,48.5,587.04
+APT00172,2026-10-16,Pediatrics,New,No,Attended,64.7,421.59
+APT00173,2026-09-07,Orthopedics,Follow-up,Yes,Attended,31.2,527.4
+APT00174,2026-09-28,General Medicine,Follow-up,No,Attended,40.5,320.6
+APT00175,2026-08-04,Orthopedics,Follow-up,Yes,Attended,51.9,574.99
+APT00176,2026-10-07,Cardiology,New,No,Cancelled,51.3,579.98
+APT00177,2026-08-07,Dermatology,Follow-up,Yes,Attended,54.4,427.18
+APT00178,2026-10-05,General Medicine,New,Yes,Attended,38.1,354.99
+APT00179,2026-08-14,General Medicine,New,Yes,No-Show,47.2,333.22
+APT00180,2026-10-18,General Medicine,New,Yes,Attended,,338.6
+APT00181,2026-08-28,General Medicine,New,No,No-Show,38.4,349.16
+APT00182,2026-08-17,General Medicine,New,Yes,No-Show,46.2,322.46
+APT00183,2026-08-31,Pediatrics,New,Yes,Attended,47.0,433.17
+APT00184,2026-08-01,Orthopedics,New,Yes,Attended,50.1,703.39
+APT00185,2026-08-16,General Medicine,Follow-up,Yes,Attended,51.4,330.5
+APT00186,2026-09-25,ENT,New,No,Attended,37.8,529.11
+APT00187,2026-08-28,Dermatology,New,Yes,Attended,27.7,437.06
+APT00188,2026-09-02,Cardiology,Follow-up,No,Attended,77.2,730.7
+APT00189,2026-10-14,General Medicine,Follow-up,Yes,Attended,40.1,415.76
+APT00190,2026-08-12,Orthopedics,New,No,Attended,36.6,636.62
+APT00191,2026-09-06,General Medicine,New,Yes,Attended,34.0,275.52
+APT00192,2026-08-18,Orthopedics,Follow-up,Yes,No-Show,25.7,632.69
+APT00193,2026-09-14,Cardiology,New,No,Attended,62.2,803.56
+APT00194,2026-08-31,General Medicine,New,No,No-Show,38.3,340.69
+APT00195,2026-08-05,Cardiology,Follow-up,No,No-Show,43.7,783.63
+APT00196,2026-08-07,Orthopedics,New,Yes,Attended,45.2,550.31
+APT00197,2026-10-18,Pediatrics,Follow-up,Yes,Attended,37.5,328.69
+APT00198,2026-08-06,General Medicine,Follow-up,No,No-Show,24.0,355.93
+APT00199,2026-10-12,Orthopedics,Follow-up,Yes,Cancelled,24.0,473.53
+APT00200,2026-10-24,Orthopedics,New,No,No-Show,48.9,582.74
+APT00201,2026-09-12,General Medicine,New,Yes,No-Show,50.8,404.05
+APT00202,2026-08-29,General Medicine,New,Yes,Cancelled,47.3,269.79
+APT00203,2026-10-11,Pediatrics,New,No,Attended,25.5,338.58
+APT00204,2026-10-30,Cardiology,Follow-up,No,Attended,50.8,613.31
+APT00205,2026-08-12,Cardiology,New,Yes,Attended,,694.68
+APT00206,2026-10-28,Orthopedics,New,Yes,Cancelled,39.2,573.67
+APT00207,2026-10-26,Cardiology,Follow-up,Yes,Attended,29.7,817.53
+APT00208,2026-08-14,ENT,Follow-up,Yes,Attended,47.9,557.26
+APT00209,2026-08-06,Cardiology,New,Yes,No-Show,58.2,741.6
+APT00210,2026-10-05,Pediatrics,New,Yes,Attended,43.9,406.99
+APT00211,2026-08-08,ENT,Follow-up,No,No-Show,47.2,523.59
+APT00212,2026-09-25,Pediatrics,Follow-up,No,Attended,64.6,358.62
+APT00213,2026-08-06,Orthopedics,Follow-up,Yes,Cancelled,15.8,661.72
+APT00214,2026-10-03,General Medicine,Follow-up,Yes,No-Show,25.4,303.29
+APT00215,2026-08-22,ENT,Follow-up,Yes,Attended,23.0,550.12
+APT00216,2026-08-09,ENT,New,Yes,Attended,27.9,571.17
+APT00217,2026-08-07,Cardiology,New,Yes,Attended,36.0,717.71
+APT00218,2026-08-18,Cardiology,New,Yes,Attended,46.1,685.2
+APT00219,2026-09-19,General Medicine,Follow-up,No,Attended,19.2,366.81
+APT00220,2026-08-08,Dermatology,Follow-up,Yes,No-Show,28.4,295.48
+APT00221,2026-10-13,Orthopedics,New,Yes,Attended,46.7,621.76
+APT00222,2026-09-25,Pediatrics,New,Yes,Attended,42.3,394.56
+APT00223,2026-08-28,ENT,New,No,No-Show,45.6,496.96
+APT00224,2026-10-30,General Medicine,Follow-up,No,Attended,42.8,379.67
+APT00225,2026-09-30,Orthopedics,New,Yes,Attended,,594.62
+APT00226,2026-10-01,General Medicine,New,No,Attended,70.6,302.11
+APT00227,2026-08-17,Cardiology,New,Yes,Attended,53.0,688.12
+APT00228,2026-10-05,Pediatrics,New,Yes,No-Show,11.8,403.24
+APT00229,2026-09-21,ENT,New,No,Attended,26.0,506.9
+APT00230,2026-10-30,Cardiology,New,Yes,Attended,27.4,713.6
+APT00231,2026-09-13,Cardiology,New,Yes,Cancelled,50.2,787.31
+APT00232,2026-10-02,Dermatology,New,Yes,Attended,30.4,391.35
+APT00233,2026-09-01,General Medicine,New,Yes,Attended,36.9,357.38
+APT00234,2026-08-04,Pediatrics,New,No,Attended,62.1,461.92
+APT00235,2026-08-12,General Medicine,New,Yes,No-Show,50.1,277.15
+APT00236,2026-10-19,General Medicine,Follow-up,Yes,Attended,44.4,357.55
+APT00237,2026-10-07,Dermatology,New,Yes,No-Show,19.9,418.39
+APT00238,2026-09-03,General Medicine,New,Yes,Attended,30.0,334.43
+APT00239,2026-10-04,Cardiology,New,Yes,Attended,50.5,624.0
+APT00240,2026-08-01,Cardiology,New,Yes,Attended,52.2,685.76
+APT00241,2026-08-04,General Medicine,New,No,Attended,18.9,427.33
+APT00242,2026-09-16,General Medicine,New,Yes,Attended,40.7,296.89
+APT00243,2026-09-27,Orthopedics,Follow-up,Yes,Attended,38.2,515.79
+APT00244,2026-10-26,Pediatrics,New,Yes,Cancelled,33.2,337.51
+APT00245,2026-10-09,Pediatrics,New,Yes,Attended,25.4,482.92
+APT00246,2026-08-24,General Medicine,New,Yes,Attended,36.0,330.58
+APT00247,2026-10-14,Pediatrics,New,Yes,Attended,33.7,398.77
+APT00248,2026-09-15,Dermatology,New,Yes,Attended,33.2,428.25
+APT00249,2026-10-15,Dermatology,Follow-up,No,Attended,31.9,399.0
+APT00250,2026-08-16,Dermatology,Follow-up,No,Attended,38.1,437.3
+APT00251,2026-08-03,ENT,New,Yes,Attended,35.2,647.49
+APT00252,2026-08-06,General Medicine,New,Yes,Attended,37.1,408.47
+APT00253,2026-10-31,Dermatology,New,Yes,No-Show,37.7,403.94
+APT00254,2026-08-08,Orthopedics,New,Yes,No-Show,53.9,646.63
+APT00255,2026-10-26,Orthopedics,Follow-up,Yes,Attended,32.4,540.13
+APT00256,2026-10-06,General Medicine,New,No,Attended,53.3,275.39
+APT00257,2026-08-14,General Medicine,New,No,Attended,55.7,392.82
+APT00258,2026-10-19,Cardiology,Follow-up,No,Cancelled,58.8,797.45
+APT00259,2026-08-14,Cardiology,New,Yes,No-Show,73.1,787.87
+APT00260,2026-08-14,Pediatrics,New,No,Cancelled,24.7,377.45
+APT00261,2026-09-22,Cardiology,Follow-up,Yes,Attended,42.2,685.99
+APT00262,2026-08-27,General Medicine,New,Yes,Attended,43.1,381.49
+APT00263,2026-08-27,Orthopedics,New,Yes,Attended,44.7,628.19
+APT00264,2026-08-18,Cardiology,New,No,Attended,41.6,666.93
+APT00265,2026-09-25,General Medicine,Follow-up,Yes,Attended,15.7,282.0
+APT00266,2026-08-03,Orthopedics,New,No,Attended,47.2,608.2
+APT00267,2026-08-23,Orthopedics,New,Yes,Cancelled,36.0,677.69
+APT00268,2026-09-20,Cardiology,New,No,Attended,51.1,599.4
+APT00269,2026-09-14,Cardiology,New,Yes,Attended,39.7,753.66
+APT00270,2026-10-04,Cardiology,Follow-up,Yes,No-Show,27.7,727.85
+APT00271,2026-08-20,Cardiology,New,No,Attended,148.4,763.01
+APT00272,2026-09-29,Orthopedics,New,Yes,Attended,48.0,662.78
+APT00273,2026-10-09,Cardiology,Follow-up,Yes,Attended,49.5,641.66
+APT00274,2026-09-05,Pediatrics,Follow-up,Yes,No-Show,56.4,322.39
+APT00275,2026-08-24,ENT,New,Yes,Attended,42.6,467.99
+APT00276,2026-09-21,Dermatology,Follow-up,Yes,Attended,30.3,498.01
+APT00277,2026-09-23,Orthopedics,Follow-up,Yes,Attended,24.0,560.98
+APT00278,2026-08-09,Pediatrics,New,Yes,Attended,19.3,366.69
+APT00279,2026-09-21,General Medicine,Follow-up,No,Attended,55.6,273.5
+APT00280,2026-08-15,General Medicine,Follow-up,Yes,Attended,23.0,423.61
+APT00281,2026-09-22,Cardiology,New,Yes,Attended,36.4,769.36
+APT00282,2026-10-25,Orthopedics,Follow-up,Yes,No-Show,37.5,655.43
+APT00283,2026-09-19,Orthopedics,New,Yes,Attended,44.8,669.68
+APT00284,2026-10-10,Orthopedics,Follow-up,No,Attended,26.3,641.52
+APT00285,2026-08-29,Pediatrics,Follow-up,No,Attended,24.0,388.27
+APT00286,2026-10-24,Dermatology,New,No,No-Show,48.0,441.16
+APT00287,2026-10-14,Cardiology,Follow-up,Yes,Attended,31.5,664.08
+APT00288,2026-10-24,Dermatology,New,Yes,Attended,13.9,592.28
+APT00289,2026-10-08,Pediatrics,Follow-up,Yes,No-Show,40.3,426.68
+APT00290,2026-09-29,Cardiology,Follow-up,Yes,Attended,48.4,661.04
+APT00291,2026-09-18,General Medicine,New,Yes,Attended,34.9,369.55
+APT00292,2026-10-25,Cardiology,New,No,Attended,29.4,615.09
+APT00293,2026-10-18,General Medicine,New,Yes,Attended,33.3,413.19
+APT00294,2026-09-08,Cardiology,New,Yes,Attended,49.3,644.47
+APT00295,2026-08-08,General Medicine,New,Yes,No-Show,58.2,371.05
+APT00296,2026-08-01,General Medicine,New,Yes,Attended,29.5,394.77
+APT00297,2026-08-22,General Medicine,New,Yes,Attended,41.9,366.16
+APT00298,2026-08-06,General Medicine,New,Yes,Attended,51.8,353.97
+APT00299,2026-08-20,General Medicine,Follow-up,No,Attended,4.0,350.45
+APT00300,2026-08-11,ENT,Follow-up,Yes,Attended,44.4,496.61
+APT00301,2026-10-30,General Medicine,Follow-up,Yes,Attended,19.6,325.78
+APT00302,2026-08-09,Cardiology,New,Yes,Attended,54.3,662.24
+APT00303,2026-09-27,Pediatrics,Follow-up,No,Attended,31.2,471.02
+APT00304,2026-09-02,Pediatrics,Follow-up,Yes,Attended,42.1,394.79
+APT00305,2026-08-17,General Medicine,New,No,No-Show,50.2,317.0
+APT00306,2026-10-04,Dermatology,New,No,No-Show,3.0,422.12
+APT00307,2026-10-29,Dermatology,Follow-up,Yes,Attended,13.8,509.42
+APT00308,2026-10-12,ENT,New,No,Attended,40.8,540.54
+APT00309,2026-10-29,Orthopedics,New,Yes,Attended,43.5,640.34
+APT00310,2026-09-24,Cardiology,Follow-up,No,Attended,48.2,678.37
+APT00311,2026-10-01,Pediatrics,New,Yes,Attended,,427.52
+APT00312,2026-08-14,Dermatology,New,No,Attended,39.9,415.25
+APT00313,2026-10-18,Orthopedics,Follow-up,Yes,Attended,35.2,581.31
+APT00314,2026-10-08,Dermatology,Follow-up,Yes,Attended,3.0,502.37
+APT00315,2026-08-24,Dermatology,New,Yes,No-Show,26.1,497.21
+APT00316,2026-09-02,Orthopedics,Follow-up,No,Attended,132.3,529.3
+APT00317,2026-09-26,Dermatology,Follow-up,Yes,Attended,9.8,403.8
+APT00318,2026-08-02,ENT,New,Yes,Attended,47.2,506.52
+APT00319,2026-10-15,Orthopedics,Follow-up,No,Attended,49.8,724.28
+APT00320,2026-08-26,General Medicine,New,No,Attended,44.6,269.55
+APT00321,2026-08-07,General Medicine,New,Yes,Cancelled,3.2,361.69
+APT00322,2026-08-31,Pediatrics,Follow-up,Yes,Attended,11.4,333.95
+APT00323,2026-10-16,Orthopedics,New,Yes,Attended,70.5,554.33
+APT00324,2026-08-26,Pediatrics,Follow-up,No,Attended,20.9,382.51
+APT00325,2026-09-19,General Medicine,Follow-up,Yes,Attended,9.2,332.34
+APT00326,2026-10-14,ENT,New,No,Attended,55.1,467.97
+APT00327,2026-08-04,General Medicine,Follow-up,Yes,Attended,35.2,350.3
+APT00328,2026-10-09,Pediatrics,New,Yes,Attended,50.4,374.31
+APT00329,2026-08-27,ENT,Follow-up,Yes,Cancelled,34.6,412.25
+APT00330,2026-10-03,Orthopedics,New,Yes,Attended,52.0,656.15
+APT00331,2026-08-18,ENT,Follow-up,No,Attended,35.7,545.17
+APT00332,2026-08-13,Orthopedics,New,Yes,Cancelled,55.1,660.71
+APT00333,2026-10-12,ENT,New,Yes,Attended,,407.56
+APT00334,2026-10-14,General Medicine,Follow-up,No,Attended,47.6,362.55
+APT00335,2026-10-30,Cardiology,Follow-up,No,Attended,21.5,756.78
+APT00336,2026-10-02,Pediatrics,New,No,Attended,41.8,350.5
+APT00337,2026-09-12,Cardiology,Follow-up,Yes,Attended,56.8,700.77
+APT00338,2026-08-18,ENT,Follow-up,Yes,Attended,46.6,493.02
+APT00339,2026-08-28,Cardiology,New,No,No-Show,44.5,854.74
+APT00340,2026-09-29,General Medicine,New,Yes,Attended,58.1,430.83
+APT00341,2026-09-01,Cardiology,New,Yes,Attended,62.1,560.19
+APT00342,2026-09-14,General Medicine,Follow-up,No,Attended,68.4,454.74
+APT00343,2026-08-16,General Medicine,New,Yes,Attended,33.2,311.56
+APT00344,2026-09-10,Pediatrics,New,Yes,Cancelled,29.4,447.07
+APT00345,2026-08-22,General Medicine,New,No,Attended,39.0,390.76
+APT00346,2026-08-11,General Medicine,Follow-up,Yes,Attended,28.6,308.18
+APT00347,2026-08-13,General Medicine,New,Yes,Attended,,370.72
+APT00348,2026-09-17,Orthopedics,Follow-up,Yes,Attended,3.0,592.26
+APT00349,2026-09-03,Pediatrics,New,Yes,Attended,30.3,426.61
+APT00350,2026-08-10,Cardiology,Follow-up,Yes,Attended,46.8,719.38
+APT00351,2026-09-17,Pediatrics,New,No,Attended,29.6,457.42
+APT00352,2026-08-16,Orthopedics,New,No,Cancelled,71.2,605.43
+APT00353,2026-08-02,Pediatrics,Follow-up,Yes,Attended,28.2,391.94
+APT00354,2026-08-13,Pediatrics,Follow-up,Yes,Attended,44.8,452.61
+APT00355,2026-09-11,Dermatology,New,No,No-Show,35.4,481.34
+APT00356,2026-10-27,Pediatrics,New,Yes,Cancelled,46.7,435.13
+APT00357,2026-08-23,General Medicine,Follow-up,Yes,Attended,38.6,322.09
+APT00358,2026-08-27,General Medicine,Follow-up,Yes,Attended,52.8,306.1
+APT00359,2026-08-23,Pediatrics,New,No,Attended,36.7,372.75
+APT00360,2026-09-02,Pediatrics,New,Yes,Attended,42.4,370.2
+APT00361,2026-10-05,General Medicine,Follow-up,No,Attended,39.8,383.02
+APT00362,2026-08-30,Cardiology,Follow-up,Yes,Cancelled,38.3,781.98
+APT00363,2026-09-30,Cardiology,Follow-up,Yes,Cancelled,47.3,686.97
+APT00364,2026-10-22,Cardiology,New,Yes,Attended,79.0,820.2
+APT00365,2026-10-27,ENT,New,Yes,Attended,35.5,582.11
+APT00366,2026-09-21,Dermatology,Follow-up,Yes,No-Show,29.5,463.14
+APT00367,2026-10-05,General Medicine,Follow-up,Yes,Cancelled,51.4,315.48
+APT00368,2026-10-24,ENT,Follow-up,Yes,Attended,45.8,594.52
+APT00369,2026-10-12,Dermatology,New,Yes,Attended,32.2,446.71
+APT00370,2026-08-28,General Medicine,New,Yes,No-Show,12.0,355.3
+APT00371,2026-08-13,General Medicine,Follow-up,Yes,Attended,41.7,335.74
+APT00372,2026-08-11,Orthopedics,New,No,Attended,17.1,535.94
+APT00373,2026-10-21,Dermatology,Follow-up,Yes,Cancelled,43.1,370.69
+APT00374,2026-09-21,Orthopedics,New,No,Cancelled,48.2,645.57
+APT00375,2026-08-28,Cardiology,Follow-up,No,Cancelled,55.0,634.19
+APT00376,2026-09-01,Cardiology,Follow-up,Yes,No-Show,30.3,957.0
+APT00377,2026-08-26,General Medicine,New,No,Attended,22.8,304.38
+APT00378,2026-10-13,Dermatology,New,No,Attended,,382.1
+APT00379,2026-09-26,Dermatology,Follow-up,No,Attended,23.6,477.55
+APT00380,2026-10-20,ENT,Follow-up,Yes,Attended,24.6,591.76
+APT00381,2026-08-28,Pediatrics,New,Yes,Attended,37.1,403.1
+APT00382,2026-09-13,General Medicine,Follow-up,Yes,Attended,71.0,374.03
+APT00383,2026-08-12,General Medicine,Follow-up,Yes,Attended,45.8,272.57
+APT00384,2026-10-29,Pediatrics,New,No,No-Show,49.6,367.48
+APT00385,2026-09-17,Dermatology,New,No,Attended,43.0,392.02
+APT00386,2026-09-20,General Medicine,New,Yes,Attended,62.2,270.41
+APT00387,2026-09-08,ENT,New,No,Attended,36.5,507.02
+APT00388,2026-08-25,General Medicine,New,Yes,Attended,16.3,255.8
+APT00389,2026-10-27,Cardiology,New,No,No-Show,47.5,588.94
+APT00390,2026-09-14,General Medicine,Follow-up,Yes,Attended,45.6,327.44
+APT00391,2026-10-02,ENT,New,No,Attended,26.4,450.12
+APT00392,2026-08-04,Cardiology,Follow-up,No,No-Show,39.7,733.3
+APT00393,2026-08-26,Pediatrics,New,Yes,Attended,27.0,414.67
+APT00394,2026-10-13,ENT,New,Yes,Attended,58.5,553.63
+APT00395,2026-08-09,Cardiology,Follow-up,No,Attended,51.7,763.2
+APT00396,2026-08-10,Dermatology,Follow-up,Yes,Attended,32.5,511.6
+APT00397,2026-10-14,General Medicine,New,Yes,Attended,51.1,349.92
+APT00398,2026-08-29,Orthopedics,New,No,Attended,45.5,621.85
+APT00399,2026-08-26,Dermatology,New,Yes,Attended,34.6,477.62
+APT00400,2026-09-22,Dermatology,New,Yes,Attended,16.6,457.65
+APT00401,2026-08-18,Orthopedics,New,Yes,Attended,17.6,571.4
+APT00402,2026-08-04,General Medicine,New,Yes,Attended,45.0,336.04
+APT00403,2026-08-01,General Medicine,New,No,No-Show,47.2,315.66
+APT00404,2026-08-08,Cardiology,New,Yes,Attended,65.7,735.42
+APT00405,2026-08-15,General Medicine,Follow-up,Yes,Attended,55.4,346.05
+APT00406,2026-10-04,General Medicine,Follow-up,Yes,Attended,55.4,322.15
+APT00407,2026-08-28,Orthopedics,New,No,Attended,33.0,552.32
+APT00408,2026-08-07,General Medicine,New,Yes,Attended,38.4,299.16
+APT00409,2026-08-02,Cardiology,New,No,No-Show,56.2,782.22
+APT00410,2026-09-13,General Medicine,New,No,Cancelled,75.9,353.3
+APT00411,2026-10-17,ENT,Follow-up,No,Attended,50.2,448.23
+APT00412,2026-09-01,ENT,Follow-up,No,Attended,45.6,548.51
+APT00413,2026-08-06,Cardiology,Follow-up,No,Cancelled,128.8,652.92
+APT00414,2026-08-21,General Medicine,Follow-up,No,Attended,23.5,290.93
+APT00415,2026-09-15,Cardiology,Follow-up,Yes,Attended,,785.78
+APT00416,2026-08-18,Orthopedics,Follow-up,No,Attended,23.7,561.33
+APT00417,2026-10-30,Cardiology,New,Yes,Attended,46.9,665.65
+APT00418,2026-10-10,General Medicine,New,Yes,Attended,41.5,351.73
+APT00419,2026-09-01,Orthopedics,New,No,Attended,66.7,682.27
+APT00420,2026-10-27,General Medicine,New,No,Cancelled,38.4,350.84
+APT00421,2026-08-30,ENT,New,No,Attended,7.3,428.05
+APT00422,2026-08-13,Cardiology,Follow-up,Yes,Attended,48.6,745.69
+APT00423,2026-10-26,Cardiology,Follow-up,Yes,Attended,32.9,659.26
+APT00424,2026-10-28,Cardiology,New,Yes,Attended,50.6,858.59
+APT00425,2026-08-29,Pediatrics,New,Yes,Attended,34.9,399.95
+APT00426,2026-09-24,General Medicine,New,Yes,Attended,39.4,256.13
+APT00427,2026-08-16,Orthopedics,New,Yes,Attended,,625.73
+APT00428,2026-09-29,General Medicine,Follow-up,Yes,Attended,,431.67
+APT00429,2026-10-03,Cardiology,Follow-up,No,Attended,35.3,832.38
+APT00430,2026-10-05,General Medicine,Follow-up,Yes,Attended,43.9,426.9
+APT00431,2026-09-22,General Medicine,New,No,Attended,35.0,307.17
+APT00432,2026-10-04,General Medicine,New,Yes,Attended,22.1,388.31
+APT00433,2026-09-21,ENT,New,Yes,Attended,47.7,456.68
+APT00434,2026-10-15,General Medicine,Follow-up,Yes,No-Show,49.6,359.42
+APT00435,2026-08-17,Cardiology,Follow-up,Yes,Attended,41.4,593.07
+APT00436,2026-09-14,Orthopedics,New,No,Attended,20.5,553.6
+APT00437,2026-09-08,Cardiology,Follow-up,Yes,Attended,51.2,643.2
+APT00438,2026-09-19,Pediatrics,New,Yes,Attended,14.4,443.13
+APT00439,2026-08-14,General Medicine,Follow-up,No,Attended,39.0,383.63
+APT00440,2026-08-30,ENT,New,No,Attended,27.5,516.61
+APT00441,2026-10-27,General Medicine,New,Yes,Attended,27.9,293.28
+APT00442,2026-08-10,Cardiology,Follow-up,Yes,Attended,36.3,673.82
+APT00443,2026-09-28,ENT,New,Yes,Attended,36.6,455.23
+APT00444,2026-10-01,Orthopedics,New,Yes,Attended,37.6,662.62
+APT00445,2026-09-13,Orthopedics,New,Yes,No-Show,53.7,684.83
+APT00446,2026-08-04,ENT,New,Yes,Cancelled,33.2,563.38
+APT00447,2026-08-04,General Medicine,Follow-up,No,Attended,47.7,318.28
+APT00448,2026-08-26,Pediatrics,Follow-up,Yes,Cancelled,31.7,268.5
+APT00449,2026-08-10,Cardiology,Follow-up,No,Attended,103.5,551.58
+APT00450,2026-08-09,Pediatrics,New,Yes,Cancelled,24.7,468.24
+APT00451,2026-08-15,Cardiology,New,No,Cancelled,28.6,666.29
+APT00452,2026-08-18,General Medicine,New,Yes,Attended,146.1,318.47
+APT00453,2026-10-17,ENT,New,No,No-Show,34.4,598.56
+APT00454,2026-09-28,Orthopedics,New,No,Cancelled,15.2,691.09
+APT00455,2026-08-03,Cardiology,Follow-up,Yes,No-Show,35.0,702.05
+APT00456,2026-09-27,Orthopedics,Follow-up,Yes,Cancelled,26.3,578.87
+APT00457,2026-08-13,General Medicine,Follow-up,Yes,Attended,55.5,344.45
+APT00458,2026-09-08,Dermatology,New,Yes,Attended,9.9,462.27
+APT00459,2026-08-04,General Medicine,New,No,No-Show,24.3,417.2
+APT00460,2026-08-09,ENT,New,Yes,Attended,53.4,525.35
+APT00461,2026-08-13,Pediatrics,New,No,Attended,53.6,434.85
+APT00462,2026-09-09,Cardiology,New,Yes,Attended,40.3,798.22
+APT00463,2026-09-12,General Medicine,New,Yes,Attended,34.8,300.87
+APT00464,2026-09-02,Orthopedics,New,Yes,Attended,54.0,654.35
+APT00465,2026-09-27,Pediatrics,Follow-up,No,No-Show,3.0,385.86
+APT00466,2026-10-06,ENT,New,No,Attended,14.8,349.03
+APT00467,2026-10-07,ENT,Follow-up,Yes,Attended,27.4,372.31
+APT00468,2026-09-23,General Medicine,New,Yes,No-Show,63.1,307.24
+APT00469,2026-09-20,Cardiology,New,No,Attended,44.3,744.62
+APT00470,2026-09-15,Pediatrics,New,Yes,Attended,37.3,405.46
+APT00471,2026-08-22,Dermatology,New,No,Attended,142.2,459.96
+APT00472,2026-09-14,Pediatrics,New,Yes,Cancelled,63.4,493.65
+APT00473,2026-08-01,Cardiology,New,Yes,Attended,42.5,593.4
+APT00474,2026-10-28,Cardiology,Follow-up,Yes,Attended,41.8,697.7
+APT00475,2026-09-04,Orthopedics,New,Yes,Attended,69.7,621.92
+APT00476,2026-10-09,Orthopedics,Follow-up,Yes,Attended,18.2,546.99
+APT00477,2026-10-28,Dermatology,New,Yes,Attended,45.4,451.53
+APT00478,2026-09-15,Pediatrics,New,No,Cancelled,22.8,323.2
+APT00479,2026-10-19,ENT,New,Yes,Attended,40.3,584.59
+APT00480,2026-09-14,Dermatology,New,Yes,Attended,28.8,413.19
+APT00481,2026-08-13,Dermatology,Follow-up,Yes,No-Show,11.5,559.7
+APT00482,2026-08-03,Orthopedics,Follow-up,Yes,Attended,25.2,597.66
+APT00483,2026-08-13,Pediatrics,Follow-up,Yes,No-Show,31.6,449.35
+APT00484,2026-10-26,Orthopedics,New,Yes,Attended,58.9,596.16
+APT00485,2026-09-13,Cardiology,New,No,Attended,48.3,697.42
+APT00486,2026-08-30,Dermatology,Follow-up,Yes,Cancelled,24.9,418.46
+APT00487,2026-09-11,Pediatrics,New,No,Attended,43.4,405.72
+APT00488,2026-08-24,Orthopedics,New,Yes,Attended,33.4,622.9
+APT00489,2026-10-20,Pediatrics,New,No,Cancelled,45.6,362.36
+APT00490,2026-10-31,Pediatrics,Follow-up,Yes,Attended,38.7,394.0
+APT00491,2026-08-08,ENT,Follow-up,Yes,Attended,64.8,463.39
+APT00492,2026-10-06,ENT,Follow-up,No,No-Show,26.1,637.98
+APT00493,2026-08-31,ENT,Follow-up,No,Attended,25.0,494.62
+APT00494,2026-08-05,Orthopedics,New,No,Attended,56.0,711.26
+APT00495,2026-10-24,General Medicine,Follow-up,Yes,Attended,45.6,341.78
+APT00496,2026-08-06,Pediatrics,New,No,No-Show,29.0,412.45
+APT00497,2026-08-19,Dermatology,Follow-up,No,Attended,18.8,378.65
+APT00498,2026-08-03,ENT,New,No,Attended,46.0,473.18
+APT00499,2026-09-13,Dermatology,Follow-up,Yes,No-Show,13.2,461.37
+APT00500,2026-09-25,Pediatrics,New,No,Attended,30.7,476.13
+APT00013,2026-08-07,ENT,New,Yes,Attended,37.8,533.18
+APT00048,2026-09-30,Orthopedics,New,No,No-Show,,675.29
+APT00104,2026-08-28,General Medicine,Follow-up,No,No-Show,27.2,440.66
